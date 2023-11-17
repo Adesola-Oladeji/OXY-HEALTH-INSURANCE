@@ -3,6 +3,8 @@
 Case Study - Exploratory Data Analysis
 
 
+![image](https://media.licdn.com/dms/image/D5612AQH15XLP-TFimA/article-cover_image-shrink_600_2000/0/1689674683078?e=1705536000&v=beta&t=mksj67naSn3sNyfZa_WHtGp5yhPGK1JD5EWb0LLcfwE)
+
 
 
 AIM:
